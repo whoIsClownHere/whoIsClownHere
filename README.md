@@ -1,25 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Egor ============================================================================================================================  Developer of data analysis and machine learning systems -------------------------------------------------------  * 🌍  I'm based in Moscow * ✉️  You can contact me at [11Ermak.Egor08@gmail.com](mailto:11Ermak.Egor08@gmail.com) * 🤝  I'm open to collaborating on interesting projects
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
