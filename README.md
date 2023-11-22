@@ -1,4 +1,4 @@
-# Hi 👋 My name is Egor
+# Hi 👋 my name is Egor
 
 ## Developer of data analysis and machine learning systems
 
