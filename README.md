@@ -1,8 +1,6 @@
-Hi 👋 My name is Egor
-=====================
+# Hi 👋 My name is Egor
 
-Developer of data analysis and machine learning systems
--------------------------------------------------------
+## Developer of data analysis and machine learning systems
 
 
 * 🌍  I'm based in Moscow
