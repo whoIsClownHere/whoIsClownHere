@@ -1,13 +1,4 @@
-```
-whoIsClownHere — data & ml · energy markets
-```
+## Developer of data analysis and machine learning systems
 
-**Forecasting electricity prices and reverse-engineering on-chain flow — turning both into positions.**
-
----
-
-`Python` · `SQL`
-
-**Currently** — PJM price prediction · on-chain alpha research
-
-Reach me — 11Ermak.Egor08@gmail.com · [linkedin.com/in/egor-ermakov-d](https://linkedin.com/in/egor-ermakov-d)
+* ✉️  You can contact me at [11Ermak.Egor08@gmail.com](mailto:11Ermak.Egor08@gmail.com)
+* 🤝  I'm open to collaborating on interesting projects
